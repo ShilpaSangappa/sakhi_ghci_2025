@@ -1,0 +1,63 @@
+# Sakhi App - Minimal Requirements (For Quick Demo Setup)
+# Use this for faster installation and demo
+
+# ========================================
+# Core Backend Dependencies
+# ========================================
+
+# FastAPI and server
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+
+# Pydantic for data validation
+pydantic==2.5.0
+
+# HTTP client
+requests==2.31.0
+
+# Date/Time utilities
+python-dateutil==2.8.2
+
+# ========================================
+# Core Frontend Dependencies (Kivy)
+# ========================================
+
+# Kivy framework
+kivy==2.2.1
+
+# Kivy dependencies
+docutils==0.20.1
+pygments==2.17.2
+
+# ========================================
+# Translation (Choose one)
+# ========================================
+
+# Option 1: Google Translate (requires httpx==0.13.3)
+googletrans==4.0.0rc1
+httpx==0.13.3
+
+# Option 2: Deep Translator (if googletrans doesn't work, comment above and uncomment below)
+# deep-translator==1.11.4
+
+# ========================================
+# Optional: For full features
+# ========================================
+
+# Speech recognition (optional - can skip for basic demo)
+# SpeechRecognition==3.10.0
+# pyaudio==0.2.14  # May require additional system dependencies
+
+# Text-to-Speech (optional)
+# gTTS==2.4.0
+
+# Analytics/Charts (optional)
+# matplotlib==3.8.2
+# numpy==1.26.2
+
+# ========================================
+# Notes
+# ========================================
+# Python >= 3.8 required
+# For Windows: If pyaudio fails, install via: pip install pipwin && pipwin install pyaudio
