@@ -1,0 +1,137 @@
+{
+  "app_name": "Sakhi",
+  "tagline": "Your Health Companion",
+
+  "navigation": {
+    "home": "Home",
+    "period_tracker": "Period Tracker",
+    "community": "Community",
+    "meetups": "Meetups",
+    "analytics": "Analytics",
+    "chatbot": "Ask Sakhi"
+  },
+
+  "auth": {
+    "login": "Login",
+    "phone_placeholder": "Enter phone number",
+    "name_placeholder": "Enter your name",
+    "continue": "Continue",
+    "anonymous_mode": "Continue Anonymously",
+    "select_language": "Select Language",
+    "welcome": "Welcome to Sakhi"
+  },
+
+  "period_tracker": {
+    "title": "Period Tracker",
+    "log_period": "Log Period",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "flow": "Flow Level",
+    "flow_light": "Light",
+    "flow_medium": "Medium",
+    "flow_heavy": "Heavy",
+    "symptoms": "Symptoms",
+    "symptom_cramps": "Cramps",
+    "symptom_mood": "Mood Swings",
+    "symptom_headache": "Headache",
+    "symptom_fatigue": "Fatigue",
+    "next_period": "Next Period Expected",
+    "cycle_length": "Average Cycle Length",
+    "days": "days",
+    "calendar_view": "Calendar View",
+    "history": "History",
+    "no_logs": "No period logs yet. Start tracking!",
+    "login_to_see_history": "Login to see your history"
+  },
+
+  "community": {
+    "title": "Community",
+    "create_post": "Create Post",
+    "anonymous": "Post Anonymously",
+    "post_placeholder": "Share your thoughts or questions...",
+    "comments": "Comments",
+    "upvote": "Upvote",
+    "reply": "Reply",
+    "report": "Report",
+    "posted_by": "Posted by",
+    "ago": "ago",
+    "no_posts": "No posts yet",
+    "load_more": "Load More"
+  },
+
+  "meetups": {
+    "title": "Meetups",
+    "create_meetup": "Create Meetup",
+    "join": "Join",
+    "leave": "Leave",
+    "location": "Location",
+    "city": "City",
+    "date_time": "Date & Time",
+    "participants": "Participants",
+    "description": "Description",
+    "title_placeholder": "Meetup title",
+    "desc_placeholder": "Describe the meetup...",
+    "no_meetups": "No meetups in your area",
+    "upcoming": "Upcoming",
+    "past": "Past"
+  },
+
+  "analytics": {
+    "title": "My Analytics",
+    "cycle_chart": "Cycle Trends",
+    "symptom_patterns": "Symptom Patterns",
+    "mood_tracker": "Mood Tracker",
+    "last_cycle": "Last Cycle",
+    "average_cycle": "Average Cycle",
+    "regularity": "Regularity",
+    "regular": "Regular",
+    "irregular": "Irregular",
+    "insights": "Insights"
+  },
+
+  "chatbot": {
+    "title": "Ask Sakhi",
+    "placeholder": "Type your question...",
+    "voice_input": "Voice Input",
+    "listening": "Listening...",
+    "processing": "Processing...",
+    "speak": "Speak",
+    "common_questions": "Common Questions",
+    "q1": "What is PCOS?",
+    "q2": "How to manage period pain?",
+    "q3": "Is irregular period normal?",
+    "q4": "When to see a doctor?"
+  },
+
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done"
+  },
+
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "about": "About",
+    "logout": "Logout",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  }
+}

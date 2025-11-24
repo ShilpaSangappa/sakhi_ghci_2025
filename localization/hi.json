@@ -1,0 +1,137 @@
+{
+  "app_name": "सखी",
+  "tagline": "आपकी स्वास्थ्य साथी",
+
+  "navigation": {
+    "home": "होम",
+    "period_tracker": "पीरियड ट्रैकर",
+    "community": "समुदाय",
+    "meetups": "मुलाकात",
+    "analytics": "विश्लेषण",
+    "chatbot": "सखी से पूछें"
+  },
+
+  "auth": {
+    "login": "लॉगिन",
+    "phone_placeholder": "फोन नंबर दर्ज करें",
+    "name_placeholder": "अपना नाम दर्ज करें",
+    "continue": "जारी रखें",
+    "anonymous_mode": "गुमनाम रूप से जारी रखें",
+    "select_language": "भाषा चुनें",
+    "welcome": "सखी में आपका स्वागत है"
+  },
+
+  "period_tracker": {
+    "title": "पीरियड ट्रैकर",
+    "log_period": "पीरियड लॉग करें",
+    "start_date": "शुरुआत की तारीख",
+    "end_date": "समाप्ति की तारीख",
+    "flow": "फ्लो का स्तर",
+    "flow_light": "हल्का",
+    "flow_medium": "मध्यम",
+    "flow_heavy": "भारी",
+    "symptoms": "लक्षण",
+    "symptom_cramps": "ऐंठन",
+    "symptom_mood": "मूड स्विंग्स",
+    "symptom_headache": "सिरदर्द",
+    "symptom_fatigue": "थकान",
+    "next_period": "अगला पीरियड अपेक्षित",
+    "cycle_length": "औसत चक्र की लंबाई",
+    "days": "दिन",
+    "calendar_view": "कैलेंडर व्यू",
+    "history": "इतिहास",
+    "no_logs": "अभी तक कोई पीरियड लॉग नहीं। ट्रैकिंग शुरू करें!",
+    "login_to_see_history": "अपना इतिहास देखने के लिए लॉगिन करें"
+  },
+
+  "community": {
+    "title": "समुदाय",
+    "create_post": "पोस्ट बनाएं",
+    "anonymous": "गुमनाम रूप से पोस्ट करें",
+    "post_placeholder": "अपने विचार या सवाल साझा करें...",
+    "comments": "टिप्पणियाँ",
+    "upvote": "अपवोट",
+    "reply": "जवाब दें",
+    "report": "रिपोर्ट करें",
+    "posted_by": "द्वारा पोस्ट किया गया",
+    "ago": "पहले",
+    "no_posts": "अभी तक कोई पोस्ट नहीं",
+    "load_more": "और लोड करें"
+  },
+
+  "meetups": {
+    "title": "मुलाकातें",
+    "create_meetup": "मुलाकात बनाएं",
+    "join": "शामिल हों",
+    "leave": "छोड़ें",
+    "location": "स्थान",
+    "city": "शहर",
+    "date_time": "तारीख और समय",
+    "participants": "प्रतिभागी",
+    "description": "विवरण",
+    "title_placeholder": "मुलाकात का शीर्षक",
+    "desc_placeholder": "मुलाकात का वर्णन करें...",
+    "no_meetups": "आपके क्षेत्र में कोई मुलाकात नहीं",
+    "upcoming": "आगामी",
+    "past": "पिछला"
+  },
+
+  "analytics": {
+    "title": "मेरा विश्लेषण",
+    "cycle_chart": "चक्र के रुझान",
+    "symptom_patterns": "लक्षण पैटर्न",
+    "mood_tracker": "मूड ट्रैकर",
+    "last_cycle": "अंतिम चक्र",
+    "average_cycle": "औसत चक्र",
+    "regularity": "नियमितता",
+    "regular": "नियमित",
+    "irregular": "अनियमित",
+    "insights": "अंतर्दृष्टि"
+  },
+
+  "chatbot": {
+    "title": "सखी से पूछें",
+    "placeholder": "अपना सवाल टाइप करें...",
+    "voice_input": "वॉयस इनपुट",
+    "listening": "सुन रहे हैं...",
+    "processing": "प्रोसेस कर रहे हैं...",
+    "speak": "बोलें",
+    "common_questions": "आम सवाल",
+    "q1": "PCOS क्या है?",
+    "q2": "पीरियड के दर्द को कैसे मैनेज करें?",
+    "q3": "क्या अनियमित पीरियड सामान्य है?",
+    "q4": "डॉक्टर को कब दिखाना चाहिए?"
+  },
+
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "submit": "जमा करें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हो गया",
+    "success": "सफलता!",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "ok": "ठीक है",
+    "back": "वापस",
+    "next": "अगला",
+    "done": "हो गया"
+  },
+
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "notifications": "सूचनाएं",
+    "privacy": "गोपनीयता",
+    "about": "के बारे में",
+    "logout": "लॉगआउट",
+    "theme": "थीम",
+    "light": "लाइट",
+    "dark": "डार्क"
+  }
+}

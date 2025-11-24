@@ -1,0 +1,137 @@
+{
+  "app_name": "ಸಖಿ",
+  "tagline": "ನಿಮ್ಮ ಆರೋಗ್ಯ ಸಹಚರಿ",
+
+  "navigation": {
+    "home": "ಮುಖಪುಟ",
+    "period_tracker": "ಮುಟ್ಟಿನ ಟ್ರ್ಯಾಕರ್",
+    "community": "ಸಮುದಾಯ",
+    "meetups": "ಸಭೆಗಳು",
+    "analytics": "ವಿಶ್ಲೇಷಣೆ",
+    "chatbot": "ಸಖಿಯನ್ನು ಕೇಳಿ"
+  },
+
+  "auth": {
+    "login": "ಲಾಗಿನ್",
+    "phone_placeholder": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ",
+    "name_placeholder": "ನಿಮ್ಮ ಹೆಸರು ನಮೂದಿಸಿ",
+    "continue": "ಮುಂದುವರಿಸಿ",
+    "anonymous_mode": "ಅನಾಮಧೇಯವಾಗಿ ಮುಂದುವರಿಸಿ",
+    "select_language": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+    "welcome": "ಸಖಿಗೆ ಸ್ವಾಗತ"
+  },
+
+  "period_tracker": {
+    "title": "ಮುಟ್ಟಿನ ಟ್ರ್ಯಾಕರ್",
+    "log_period": "ಮುಟ್ಟು ದಾಖಲಿಸಿ",
+    "start_date": "ಪ್ರಾರಂಭ ದಿನಾಂಕ",
+    "end_date": "ಅಂತ್ಯ ದಿನಾಂಕ",
+    "flow": "ಹರಿವಿನ ಮಟ್ಟ",
+    "flow_light": "ಲಘು",
+    "flow_medium": "ಮಧ್ಯಮ",
+    "flow_heavy": "ಹೆಚ್ಚು",
+    "symptoms": "ಲಕ್ಷಣಗಳು",
+    "symptom_cramps": "ಸೆಳೆತ",
+    "symptom_mood": "ಮನಸ್ಥಿತಿ ಬದಲಾವಣೆಗಳು",
+    "symptom_headache": "ತಲೆನೋವು",
+    "symptom_fatigue": "ಆಯಾಸ",
+    "next_period": "ಮುಂದಿನ ಮುಟ್ಟು ನಿರೀಕ್ಷಿತ",
+    "cycle_length": "ಸರಾಸರಿ ಚಕ್ರ ಉದ್ದ",
+    "days": "ದಿನಗಳು",
+    "calendar_view": "ಕ್ಯಾಲೆಂಡರ್ ನೋಟ",
+    "history": "ಇತಿಹಾಸ",
+    "no_logs": "ಇನ್ನೂ ಯಾವುದೇ ಮುಟ್ಟು ದಾಖಲೆಗಳಿಲ್ಲ. ಟ್ರ್ಯಾಕಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ!",
+    "login_to_see_history": "ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ನೋಡಲು ಲಾಗಿನ್ ಮಾಡಿ"
+  },
+
+  "community": {
+    "title": "ಸಮುದಾಯ",
+    "create_post": "ಪೋಸ್ಟ್ ರಚಿಸಿ",
+    "anonymous": "ಅನಾಮಧೇಯವಾಗಿ ಪೋಸ್ಟ್ ಮಾಡಿ",
+    "post_placeholder": "ನಿಮ್ಮ ಆಲೋಚನೆಗಳು ಅಥವಾ ಪ್ರಶ್ನೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ...",
+    "comments": "ಕಾಮೆಂಟ್‌ಗಳು",
+    "upvote": "ಅಪ್‌ವೋಟ್",
+    "reply": "ಉತ್ತರಿಸಿ",
+    "report": "ವರದಿ ಮಾಡಿ",
+    "posted_by": "ಪೋಸ್ಟ್ ಮಾಡಿದವರು",
+    "ago": "ಹಿಂದೆ",
+    "no_posts": "ಇನ್ನೂ ಪೋಸ್ಟ್‌ಗಳಿಲ್ಲ",
+    "load_more": "ಹೆಚ್ಚು ಲೋಡ್ ಮಾಡಿ"
+  },
+
+  "meetups": {
+    "title": "ಸಭೆಗಳು",
+    "create_meetup": "ಸಭೆ ರಚಿಸಿ",
+    "join": "ಸೇರಿ",
+    "leave": "ಬಿಡಿ",
+    "location": "ಸ್ಥಳ",
+    "city": "ನಗರ",
+    "date_time": "ದಿನಾಂಕ ಮತ್ತು ಸಮಯ",
+    "participants": "ಭಾಗವಹಿಸುವವರು",
+    "description": "ವಿವರಣೆ",
+    "title_placeholder": "ಸಭೆಯ ಶೀರ್ಷಿಕೆ",
+    "desc_placeholder": "ಸಭೆಯನ್ನು ವಿವರಿಸಿ...",
+    "no_meetups": "ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ ಸಭೆಗಳಿಲ್ಲ",
+    "upcoming": "ಮುಂಬರುವ",
+    "past": "ಹಿಂದಿನ"
+  },
+
+  "analytics": {
+    "title": "ನನ್ನ ವಿಶ್ಲೇಷಣೆ",
+    "cycle_chart": "ಚಕ್ರ ಪ್ರವೃತ್ತಿಗಳು",
+    "symptom_patterns": "ಲಕ್ಷಣ ಮಾದರಿಗಳು",
+    "mood_tracker": "ಮನಸ್ಥಿತಿ ಟ್ರ್ಯಾಕರ್",
+    "last_cycle": "ಕೊನೆಯ ಚಕ್ರ",
+    "average_cycle": "ಸರಾಸರಿ ಚಕ್ರ",
+    "regularity": "ನಿಯಮಿತತೆ",
+    "regular": "ನಿಯಮಿತ",
+    "irregular": "ಅನಿಯಮಿತ",
+    "insights": "ಒಳನೋಟಗಳು"
+  },
+
+  "chatbot": {
+    "title": "ಸಖಿಯನ್ನು ಕೇಳಿ",
+    "placeholder": "ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಟೈಪ್ ಮಾಡಿ...",
+    "voice_input": "ಧ್ವನಿ ಇನ್‌ಪುಟ್",
+    "listening": "ಕೇಳುತ್ತಿದೆ...",
+    "processing": "ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತಿದೆ...",
+    "speak": "ಮಾತನಾಡಿ",
+    "common_questions": "ಸಾಮಾನ್ಯ ಪ್ರಶ್ನೆಗಳು",
+    "q1": "PCOS ಎಂದರೇನು?",
+    "q2": "ಮುಟ್ಟಿನ ನೋವನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು?",
+    "q3": "ಅನಿಯಮಿತ ಮುಟ್ಟು ಸಾಮಾನ್ಯವೇ?",
+    "q4": "ವೈದ್ಯರನ್ನು ಯಾವಾಗ ಭೇಟಿ ಮಾಡಬೇಕು?"
+  },
+
+  "common": {
+    "save": "ಉಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡಿ",
+    "delete": "ಅಳಿಸಿ",
+    "edit": "ಸಂಪಾದಿಸಿ",
+    "submit": "ಸಲ್ಲಿಸಿ",
+    "search": "ಹುಡುಕಿ",
+    "filter": "ಫಿಲ್ಟರ್",
+    "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+    "error": "ಏನೋ ತಪ್ಪಾಗಿದೆ",
+    "success": "ಯಶಸ್ಸು!",
+    "confirm": "ದೃಢೀಕರಿಸಿ",
+    "yes": "ಹೌದು",
+    "no": "ಇಲ್ಲ",
+    "ok": "ಸರಿ",
+    "back": "ಹಿಂದೆ",
+    "next": "ಮುಂದೆ",
+    "done": "ಮುಗಿದಿದೆ"
+  },
+
+  "settings": {
+    "title": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "language": "ಭಾಷೆ",
+    "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+    "privacy": "ಗೌಪ್ಯತೆ",
+    "about": "ಬಗ್ಗೆ",
+    "logout": "ಲಾಗ್‌ಔಟ್",
+    "theme": "ಥೀಮ್",
+    "light": "ಬೆಳಕು",
+    "dark": "ಗಾಢ"
+  }
+}
